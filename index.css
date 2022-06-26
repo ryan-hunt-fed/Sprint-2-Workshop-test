@@ -1,0 +1,23 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50pt;
+    font-family: 'League Gothic', sans-serif;
+    margin-bottom: 134pt;
+}
+
+p {
+font-size: 20pt;
+}
+
+.red-text {
+color: red;
+}
+
+#name {
+font-size: 200pt;
+color: blue;
+}
